@@ -1,0 +1,30 @@
+body {
+    background-color: #333232;
+    text-align: center;
+    background-image: url(https://media.istockphoto.com/photos/independence-day-of-india-and-republic-day-of-india-beautiful-tri-picture-id1263373858?b=1&k=20&m=1263373858&s=170667a&w=0&h=7S2ZbhjhCtMuFgn-eFIOYoe7wW7G0e4fEGlgO5dHbpY=);
+}
+
+#container {
+    background-color: #0e2431;
+    border: 5px solid #F5E4C3;
+    height: 275px;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+}
+p {
+    color: white;
+    font-size: 24px;
+    
+}
+#outputText{
+    color:red;
+  }
+
+#userinput {
+    width:100px;
+    margin: 25px auto;
+}
+#button {
+    margin: 25px auto auto 5 px;
+}
